@@ -1,4 +1,4 @@
-# Session 1 - Introduction to CTF - Forensic
+# Session 1 - Introduction to CTF - Forensics
 
 - [Challenge Image](https://amrita-tifac-cyber-blockchain.github.io/CTF-Resources/Nov%2013%202021/Session%20One/Forensic/find_me.png)
 
